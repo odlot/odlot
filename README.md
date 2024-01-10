@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=7AAC3C&background=99FF7500&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+world!+I'm+Marco+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=7AAC3C&background=99FF7500&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+world!+I'm+Marco+%3A%5D)](https://git.io/typing-svg)
 
 <!--
 **odlot/odlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
