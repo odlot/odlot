@@ -2,7 +2,7 @@
 
 ## Current Projects
 
-- ⏱️ track-task-time (ttt) - A tool to track the time of tasks. 
+- ⏱️ [track-task-time (ttt)](https://github.com/odlot/track-task-time) - A tool to track the time of tasks. 
 
 <!--
 **odlot/odlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
