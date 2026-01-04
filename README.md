@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=7AAC3C&background=99FF7500&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+world!+I'm+Marco+%3A%5D)](https://git.io/typing-svg)
 
+- 🤔 Currently thinking about how to leverage AI to improve coding. I feel we have come a long way and agentic AI is so powerful. I fear that I will loose essential skills if I only delegate the "details" and focus on "architecting", then again, maybe I won't be needing the details in the future anymore? This keeps me up at night and I have no idea how to embrace this transition, so I try and play around with the stuff but also take the time to go slow.
+
 ## Current Projects
 
 - ⏱️ [track-task-time (ttt)](https://github.com/odlot/track-task-time) - A tool to track the time of tasks. 
