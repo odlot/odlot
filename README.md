@@ -4,7 +4,8 @@
 
 ## Current Projects
 
-- ⏱️ [track-task-time (ttt)](https://github.com/odlot/track-task-time) - A tool to track the time of tasks. 
+- ⏱️ [track-task-time (ttt)](https://github.com/odlot/track-task-time) - A tool to track the time of tasks.
+- 🧙 [Kingdom of Nin](https://github.com/odlot/kingdom-of-nin) - A cooperative, rogue-like RPG.
 
 <!--
 **odlot/odlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
