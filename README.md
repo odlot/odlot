@@ -2,13 +2,6 @@
 
 - 🤔 Currently thinking about how to leverage AI to improve coding. I feel we have come a long way and agentic AI is so powerful. I fear that I will loose essential skills if I only delegate the "details" and focus on "architecting", then again, maybe I won't be needing the details in the future anymore? This keeps me up at night and I have no idea how to embrace this transition, so I try and play around with the stuff but also take the time to go slow.
 
-## Current Projects
-
-- ⏱️ [track-task-time (ttt)](https://github.com/odlot/track-task-time) - A tool to track the time of tasks.
-- 🧙 [Kingdom of Nin](https://github.com/odlot/kingdom-of-nin) - A cooperative, rogue-like RPG.
-- 🧻 [Reorder or buy again](https://github.com/odlot/reorder-or-buy-again) - An application to keep track of what to reorder or buy again.
-- 📝 [Journal](https://github.com/odlot/journal) - A markdown-based, privacy-first, personal journal application.
-
 <!--
 **odlot/odlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
